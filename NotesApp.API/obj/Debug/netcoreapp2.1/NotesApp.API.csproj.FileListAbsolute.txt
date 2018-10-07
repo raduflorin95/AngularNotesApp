@@ -1,0 +1,14 @@
+D:\Personal Proj\NotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.deps.json
+D:\Personal Proj\NotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.runtimeconfig.json
+D:\Personal Proj\NotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.runtimeconfig.dev.json
+D:\Personal Proj\NotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.dll
+D:\Personal Proj\NotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.pdb
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.csprojAssemblyReference.cache
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.csproj.CoreCompileInputs.cache
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorAssemblyInfo.cache
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorAssemblyInfo.cs
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.AssemblyInfoInputs.cache
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.AssemblyInfo.cs
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorTargetAssemblyInfo.cache
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.dll
+D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.pdb
