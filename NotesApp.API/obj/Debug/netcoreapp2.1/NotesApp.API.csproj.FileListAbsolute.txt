@@ -12,3 +12,17 @@ D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.Asse
 D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorTargetAssemblyInfo.cache
 D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.dll
 D:\Personal Proj\NotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.pdb
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.csprojAssemblyReference.cache
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.csproj.CoreCompileInputs.cache
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorAssemblyInfo.cache
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorAssemblyInfo.cs
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.AssemblyInfoInputs.cache
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.AssemblyInfo.cs
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.dll
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.pdb
+F:\Work\AngularNotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.deps.json
+F:\Work\AngularNotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.runtimeconfig.json
+F:\Work\AngularNotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.runtimeconfig.dev.json
+F:\Work\AngularNotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.dll
+F:\Work\AngularNotesApp\NotesApp.API\bin\Debug\netcoreapp2.1\NotesApp.API.pdb
+F:\Work\AngularNotesApp\NotesApp.API\obj\Debug\netcoreapp2.1\NotesApp.API.RazorTargetAssemblyInfo.cache
