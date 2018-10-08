@@ -12,7 +12,7 @@ export class NavComponent implements OnInit {
   constructor(private authService: AuthService, private alertify: AlertifyService) { }
 
   ngOnInit() {
-  },
+  }
   login () {
     this.authService.login(this.model).subscribe(next => {
       this.alertify.success('Logged in successfully!')
